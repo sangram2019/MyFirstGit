@@ -6,3 +6,4 @@ router.get('/product',(request,response)=>{
         response.send('Get operation');
     });
 module.exports=router;
+console.log("hii")
